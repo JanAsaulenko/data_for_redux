@@ -1,0 +1,50 @@
+[
+        activeQuestion: 0,
+        answerState: null,
+        quiz: [
+            {
+                question: 'What color sky have',
+                rightAnswerID: 1,
+                answers: [
+                    {
+                        id: 1,
+                        text: "blue"
+                    },
+                    {
+                        id: 2,
+                        text: "gray"
+                    },
+                    {
+                        id: 3,
+                        text: "yellow"
+                    },
+                    {
+                        id: 4,
+                        text: "green"
+                    }
+                ]
+            },
+            {
+                question: 'When Sint Petersburg was founded',
+                rightAnswerID: 3,
+                answers: [
+                    {
+                        id: 1,
+                        text: 1700
+                    },
+                    {
+                        id: 2,
+                        text: 1813
+                    },
+                    {
+                        id: 3,
+                        text: 1703
+                    },
+                    {
+                        id: 4,
+                        text: 1702
+                    }
+                ]
+            }
+        ]
+]
